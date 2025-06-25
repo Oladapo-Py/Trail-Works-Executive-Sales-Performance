@@ -80,8 +80,8 @@ The resulting **Executive Sales Performance Dashboard** enables strategic decisi
 ## 📬 Contact
 
 **Author**: Lijadu Oladapo  
-- **LinkedIn**: www.linkedin.com/in/oladapo-lijadu(#)  
-- **Twitter/X**: @DapoPy1(#)    
+- **LinkedIn**: www.linkedin.com/in/oladapo-lijadu 
+- **Twitter/X**: @DapoPy1  
 - **Email**:lijaduoladapobayilori@gmail.com
 
 ---
